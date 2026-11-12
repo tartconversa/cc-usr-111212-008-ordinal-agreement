@@ -1,0 +1,14 @@
+{
+  "ordered_categories": [
+    "0",
+    "1"
+  ],
+  "fixed_scores": {
+    "0": 0,
+    "1": 1
+  },
+  "distance": "squared_score_difference",
+  "bootstrap_repeats": 200,
+  "seed": 11121208,
+  "version_rule": "highest_revision_then_conflict_reject"
+}

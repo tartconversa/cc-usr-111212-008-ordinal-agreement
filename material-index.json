@@ -1,0 +1,12 @@
+[
+  {
+    "path": "fixtures/labels.csv",
+    "sha256": "52f630a7c29666b092fc6872290b27bc311c1774eb0dc7f6707799ae25407e86",
+    "size_bytes": 119
+  },
+  {
+    "path": "fixtures/labels.json",
+    "sha256": "cc9576c9de5df2cd81c1e276b31224671edd5017a2327a8c4598c9a576b5e6ff",
+    "size_bytes": 248
+  }
+]
